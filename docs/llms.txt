@@ -6,6 +6,40 @@ original posts keep the cards. this file is rebuilt from docs/wingtips/ on each 
 
 ---
 
+## Hermes Wingtips #98: set your agent's timezone
+
+posted: 2026-10-10
+url: https://x.com/witcheer/status/2108882539788050645
+
+is your Hermes Agent on a server in another timezone? give it yours:
+
+`hermes config set timezone America/New_York`
+
+the agent clock and your cron schedules follow that zone, so a job set for 8am runs at 8am where you are.
+
+use your zone's IANA name, like Europe/London or Asia/Kolkata.
+
+set it once, before your first morning brief or daily reminder!
+
+docs: [https://hermes-agent.nousresearch.com/docs/user-guide/configuration#timezone](https://hermes-agent.nousresearch.com/docs/user-guide/configuration#timezone)
+
+---
+
+## Hermes Wingtips #97: let your agent ask before it starts
+
+posted: 2026-10-11
+url: https://x.com/witcheer/status/2109184368052777380
+
+want your Hermes Agent to check the details with you?
+
+"ask me a few questions first"
+
+add that to your message. in the terminal, it can put its questions together in one panel, with choices to pick or room for your own answer.
+
+docs: [https://hermes-agent.nousresearch.com/docs/reference/tools-reference#clarify-toolset](https://hermes-agent.nousresearch.com/docs/reference/tools-reference#clarify-toolset)
+
+---
+
 ## Hermes Wingtips #96: take back your last message
 
 posted: 2026-10-09
