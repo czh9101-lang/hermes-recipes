@@ -6,6 +6,7 @@ each page is the prompt as posted. newest first.
 
 ## the series
 
+- [#18: check your latest backup would bring your setup back](18-check-your-backup.md) · 2026-10-11 · [on X](https://x.com/witcheer/status/2109229610068029620)
 - [#17: ten things to ask your Hermes Agent this week](17-try-these.md) · 2026-10-09 · [on X](https://x.com/witcheer/status/2108532512112963815)
 - [#15: pick how your Hermes Agent talks to you](15-voice-pick.md) · 2026-10-08 · [on X](https://x.com/witcheer/status/2108127762884235315)
 - [#16: a morning briefing in your Telegram, built from your day](16-start-here.md) · 2026-10-06 · [on X](https://x.com/witcheer/status/2107428133108699344)
