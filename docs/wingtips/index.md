@@ -2,7 +2,7 @@
 
 one tested Hermes Agent tip at a time, collected so you can read the series in one place and point an agent at it.
 
-98 tips, #1 to #98. newest first. each page is the as-shipped X text. cards stay on the original posts.
+99 tips, #1 to #99. newest first. each page is the as-shipped X text. cards stay on the original posts.
 
 for agents: [llms.txt](../llms.txt) is the same series as one file.
 
@@ -10,6 +10,7 @@ the running X search (latest-first, needs X): [from:witcheer "Hermes Wingtips"](
 
 ## the series
 
+- [#99: copy the agent's last answer](99-copy-the-last-answer.md) · 2026-10-12 · [on X](https://x.com/witcheer/status/2109554664605725085)
 - [#98: set your agent's timezone](98-set-your-agents-timezone.md) · 2026-10-10 · [on X](https://x.com/witcheer/status/2108882539788050645)
 - [#97: let your agent ask before it starts](97-ask-me-questions-first.md) · 2026-10-11 · [on X](https://x.com/witcheer/status/2109184368052777380)
 - [#96: take back your last message](96-take-back-your-last-message.md) · 2026-10-09 · [on X](https://x.com/witcheer/status/2108518464134484398)
