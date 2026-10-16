@@ -6,6 +6,36 @@ original posts keep the cards. this file is rebuilt from docs/wingtips/ on each 
 
 ---
 
+## Hermes Wingtips #103: Favorites
+
+posted: 2026-10-16
+url: https://x.com/witcheer/status/2110996667893764440
+
+switching between the same few models with your Hermes Agent?
+
+click the star next to a model in the Hermes Desktop model picker
+
+it moves into a Favorites section at the top, wherever you pick a model in the app.
+
+docs: [https://hermes-agent.nousresearch.com/docs/user-guide/desktop#choosing-a-model](https://hermes-agent.nousresearch.com/docs/user-guide/desktop#choosing-a-model)
+
+---
+
+## Hermes Wingtips #102: /reasoning
+
+posted: 2026-10-15
+url: https://x.com/witcheer/status/2110629244850385200
+
+working through something hard with your Hermes Agent?
+
+`/reasoning high`
+
+the model does more thinking before each answer, for the rest of this session.
+
+docs: [https://hermes-agent.nousresearch.com/docs/user-guide/configuration#reasoning-effort](https://hermes-agent.nousresearch.com/docs/user-guide/configuration#reasoning-effort)
+
+---
+
 ## Hermes Wingtips #101: Minimize to tray in Hermes Desktop
 
 posted: 2026-10-14
