@@ -6,6 +6,9 @@ each page is the prompt as posted. newest first.
 
 ## the series
 
+- [#21: what your Hermes Agent does on its own](21-what-it-does-on-its-own.md) · 2026-10-17 · [on X](https://x.com/witcheer/status/2111381716073873846)
+- [#20: skills one step away](20-skills-one-step-away.md) · 2026-10-15 · [on X](https://x.com/witcheer/status/2110645602707292199)
+- [#19: what your Hermes Agent knows about you](19-what-it-knows.md) · 2026-10-13 · [on X](https://x.com/witcheer/status/2109932166696362196)
 - [#18: check your latest backup would bring your setup back](18-check-your-backup.md) · 2026-10-11 · [on X](https://x.com/witcheer/status/2109229610068029620)
 - [#17: ten things to ask your Hermes Agent this week](17-try-these.md) · 2026-10-09 · [on X](https://x.com/witcheer/status/2108532512112963815)
 - [#15: pick how your Hermes Agent talks to you](15-voice-pick.md) · 2026-10-08 · [on X](https://x.com/witcheer/status/2108127762884235315)
