@@ -2,7 +2,7 @@
 
 one tested Hermes Agent tip at a time, collected so you can read the series in one place and point an agent at it.
 
-104 tips, #1 to #104. newest first. each page is the as-shipped X text. cards stay on the original posts.
+105 tips, #1 to #105. newest first. each page is the as-shipped X text. cards stay on the original posts.
 
 for agents: [llms.txt](../llms.txt) is the same series as one file.
 
@@ -10,6 +10,7 @@ the running X search (latest-first, needs X): [from:witcheer "Hermes Wingtips"](
 
 ## the series
 
+- [#105: trust: untrusted](105-mcp-trust.md) · 2026-10-18 · [on X](https://x.com/witcheer/status/2111721017336881281)
 - [#104: /restart](104-restart.md) · 2026-10-17 · [on X](https://x.com/witcheer/status/2111359054593544454)
 - [#103: Favorites](103-favorites.md) · 2026-10-16 · [on X](https://x.com/witcheer/status/2110996667893764440)
 - [#102: /reasoning](102-reasoning.md) · 2026-10-15 · [on X](https://x.com/witcheer/status/2110629244850385200)

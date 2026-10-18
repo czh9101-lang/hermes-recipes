@@ -6,6 +6,21 @@ original posts keep the cards. this file is rebuilt from docs/wingtips/ on each 
 
 ---
 
+## Hermes Wingtips #105: trust: untrusted
+
+posted: 2026-10-18
+url: https://x.com/witcheer/status/2111721017336881281
+
+want your Hermes Agent to ask before it changes anything through an MCP server?
+
+`trust: untrusted`
+
+add it under that server in config.yaml. tools the server marks read-only run as normal, and every other tool waits for your /approve.
+
+docs: [https://hermes-agent.nousresearch.com/docs/reference/mcp-config-reference#server-keys](https://hermes-agent.nousresearch.com/docs/reference/mcp-config-reference#server-keys)
+
+---
+
 ## Hermes Wingtips #104: /restart
 
 posted: 2026-10-17
