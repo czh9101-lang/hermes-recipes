@@ -6,6 +6,8 @@ each page is the prompt as posted. newest first.
 
 ## the series
 
+- [#23: watch a price for you](23-price-watch.md) · 2026-10-21 · [on X](https://x.com/witcheer/status/2112891660388467064)
+- [#22: one agent or two](22-one-agent-or-two.md) · 2026-10-19 · [on X](https://x.com/witcheer/status/2112166878915534951)
 - [#21: what your Hermes Agent does on its own](21-what-it-does-on-its-own.md) · 2026-10-17 · [on X](https://x.com/witcheer/status/2111381716073873846)
 - [#20: skills one step away](20-skills-one-step-away.md) · 2026-10-15 · [on X](https://x.com/witcheer/status/2110645602707292199)
 - [#19: what your Hermes Agent knows about you](19-what-it-knows.md) · 2026-10-13 · [on X](https://x.com/witcheer/status/2109932166696362196)
