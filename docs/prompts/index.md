@@ -6,6 +6,7 @@ each page is the prompt as posted. newest first.
 
 ## the series
 
+- [#24: a reminder that keeps coming back until it's done](24-reminder-until-done.md) · 2026-10-23 · [on X](https://x.com/witcheer/status/2113616441555537961)
 - [#23: watch a price for you](23-price-watch.md) · 2026-10-21 · [on X](https://x.com/witcheer/status/2112891660388467064)
 - [#22: one agent or two](22-one-agent-or-two.md) · 2026-10-19 · [on X](https://x.com/witcheer/status/2112166878915534951)
 - [#21: what your Hermes Agent does on its own](21-what-it-does-on-its-own.md) · 2026-10-17 · [on X](https://x.com/witcheer/status/2111381716073873846)
